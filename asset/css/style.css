@@ -1,0 +1,264 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.top_head
+{
+	padding: 2em 0;
+
+}
+.logo_holder img {
+    width: 100%;
+    max-width: 288px;
+	height: auto;
+	border-style: none;
+}
+.date_note
+{
+	font-weight: 400;
+	font-size: 1em;
+	margin-right: 10px;
+	color: rgba(0,0,0,.5);
+	padding-left: 3em;
+	float: left;
+	padding-left: 7em;
+}
+.clearfix
+{
+	clear: both;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #a00202fc;
+    font-size: 1.2em;
+    font-weight: 600;
+    background: #f7f7f7;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.6rem;
+    padding-left: .6rem;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+.newsfeed
+{
+	    text-align: center;
+	    padding-top: 30px;
+    
+}
+.header1
+{
+	
+	font-weight: 700;
+	font-size: 45px;
+}
+.header1 a
+{
+	color: #4d4d4d;
+	text-decoration: none;
+
+}
+.header1 a:hover
+{
+	color: #093d73;
+}
+.img_hastag img
+{
+	width: 100%;
+	height: auto;
+}
+.img_content
+{
+	font-size: 1.4em;
+	font-weight: 400;
+	padding: 10px;
+}
+.first
+{
+
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 5px solid rgba(0,0,0,.1);
+
+}
+.card-text1
+{
+	font-weight:700; 
+	font-size: 2.2em;
+	text-align: center;
+}
+.card-text1 a
+{
+	text-decoration: none;
+	color: #525252;
+}
+.card-text1 a:hover
+{
+	color: #0064ae;
+}
+.list11 a
+{
+	text-decoration: none;
+	color: #000;
+}
+.list11 a:hover
+{
+	color: #1a459b;
+}
+
+/* Navabar */
+.css-nav {
+  list-style-type: none;
+  margin-top: 30px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f4f8fb;
+}
+
+.css-nav li {
+  float: left;
+}
+
+.css-nav li a {
+  display: block;
+  color: #538cc5;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+.css-nav li a:hover {
+  background-color: #111;
+}
+.title_news1
+{
+	margin-top: 20px;
+	text-align: center;
+	
+
+}
+.title_news1 a
+{
+	text-decoration: none;
+	text-align: right;
+	color: #4c4c4c;
+}
+.title_news1 a:hover
+{
+	color: #093d73;
+}
+.three_nepali a
+{
+	text-decoration: none;
+	color: #000;
+	font-size: 1.2em;
+	font-weight: 520;
+
+}
+.three_nepali a:hover
+{
+	color: #093d73;
+}
+.bg-light {
+    background-color: #f4f8fb!important;
+}
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 2em;
+    font-weight: 550;
+    line-height: inherit;
+    white-space: nowrap;
+}
+.nagdunga
+{
+	font-size: 2.1em;
+	font-weight: 475;
+	text-align: left;
+	padding-top: 15px;
+	text-decoration: none;
+}
+
+.nagdunga a
+{
+	text-decoration: none;
+	color: #000;
+}
+.nagdunga a:hover
+{
+	color: #093d73;
+}
+.trends a
+{
+	font-size: 1.2em;
+	text-decoration: none;
+	color: #4d4d4d;
+}
+.trends a:hover
+{
+	color: #093d73;
+	background: #dee4ee;
+}
+
+/* Image Grid */
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 50px;
+  text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+  color: white;
+}
+
+.containerTab {
+  padding: 20px;
+  color: white;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Closable button inside the container tab */
+.closebtn {
+  float: right;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+/* Image Grid */
+
+.Video
+{
+	background: #383838;
+	margin-top: 10px;
+}
+.row.list-view {
+    border-bottom: 1px solid #ccc;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
